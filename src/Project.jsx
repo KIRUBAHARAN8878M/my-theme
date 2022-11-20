@@ -26,13 +26,13 @@ function Project() {
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://github.com/KIRUBAHARAN8878M/notes_maker" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/notes_maker" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="https://notes-maker-frontend.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://notes-maker-frontend.netlify.app" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://github.com/KIRUBAHARAN8878M/NOTES_MAKER_BACKEND" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/NOTES_MAKER_BACKEND" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
