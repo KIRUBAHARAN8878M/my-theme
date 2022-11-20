@@ -1,16 +1,10 @@
 
  import React from "react";
-// import { useLottie } from "lottie-react";
-// import  animationDataa from "./lottie/30852-dating-app-online-chat.json";
 import '../src/project.css'
+import project1 from '../src/assets/NoteMakerApp.jpg'
 function Project() {
 
-  // const options = {
-  //   animationData: animationDataa,
-  //   loop: true
-  // };
-
-  // const { Vieww } = useLottie(options);
+ 
 
   return (
     <>
@@ -25,20 +19,20 @@ function Project() {
     <div class="row portfolio-container">
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="card portfolio-wrap">
-            <img src="https://cdn.dribbble.com/users/1246450/screenshots/7941890/media/c5c6844384fc989c6289b890fa5998d7.png?compress=1&resize=400x300" class="img-fluid" alt="" />
+            <img src={project1} class="img-fluid" alt="" />
            
-            <div className='card-title text-center pt-2'><h4>MERN Chat App</h4></div>
-            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
+            <div className='card-title text-center pt-2'><h4>MERN NOTES MAKER APP</h4></div>
+            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB/Mongoose </p>
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/notes_maker" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://notes-maker-frontend.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/NOTES_MAKER_BACKEND" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>

@@ -10,7 +10,7 @@ function Contact() {
       <hr />
        
         <div class="col-8  offset-2" id="form">
-          <form>
+          <form action='mailto:kirubaharan8878m@gmail.com' method='post' encType='text/plain'>
             <div class="mb-3">
               <label for="exampleFormControlInput1" class="form-label">Name</label>
               <input type="text" class="form-control" id="exampleFormControlInput1" 
