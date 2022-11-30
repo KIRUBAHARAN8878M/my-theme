@@ -2,6 +2,10 @@
  import React from "react";
 import '../src/project.css'
 import project1 from '../src/assets/NoteMakerApp.jpg'
+import project4 from '../src/assets/retailshopinventory.jpeg'
+import project5 from '../src/assets/recipesbuddyapp.jpeg'
+import project2 from '../src/assets/watch.jpeg'
+import project3 from '../src/assets/url.jpeg'
 function Project() {
 
  
@@ -21,7 +25,7 @@ function Project() {
           <div class="card portfolio-wrap">
             <img src={project1} class="img-fluid" alt="" />
            
-            <div className='card-title text-center pt-2'><h4>MERN NOTES MAKER APP</h4></div>
+            <div className='card-title text-center pt-2'><h4>MERN NOTES MAKER App</h4></div>
             <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB/Mongoose </p>
             <div class="portfolio-info">
               
@@ -42,19 +46,19 @@ function Project() {
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="card  portfolio-wrap">
        
-            <img src="https://cdn.dribbble.com/users/1615332/screenshots/11037958/media/a7c1c1228eab69970ade0e6c84913f69.png?compress=1&resize=768x576&vertical=top" class="img-fluid" alt="" />
-            <div className='card-title text-center pt-2'><h4>Ecommerce Store App</h4></div>
-           <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
+            <img src={project2} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>JUST WATCHES MERN App</h4></div>
+           <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB/Mongoose</p>
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://just-watches.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
@@ -64,40 +68,42 @@ function Project() {
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="card  portfolio-wrap">
        
-            <img src="https://assets.materialup.com/uploads/f04e67e3-ccce-49b8-80ca-b3531ebe3736/preview.png" class="img-fluid" alt="" />
-            <div className='card-title text-center pt-2'><h4>MERN Pizza App</h4></div>
+            <img src={project3} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>URL SHORTNER App</h4></div>
             <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://url-shortner-kiru-app.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
             </div>
           </div>
         </div>
-        {/* <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="card portfolio-wrap">
-            <img src="https://www.w3schools.com/bootstrap4/img_avatar3.png" class="img-fluid" alt="" />
-            <div className='card-title text-center'>Project Name</div>
-           <p> Short notes</p>
+        
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="card  portfolio-wrap">
+       
+            <img src={project4} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>RETAIL SHOP INVENTORY MERN App</h4></div>
+            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB/Mongoose</p>
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://kiru-retail-shop-app.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
@@ -105,47 +111,28 @@ function Project() {
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="card portfolio-wrap">
-            <img src="https://www.w3schools.com/bootstrap4/img_avatar3.png" class="img-fluid" alt="" />
-            <div className='card-title text-center'>Project Name</div>
-           <p> Short notes</p>
+          <div class="card  portfolio-wrap">
+       
+            <img src={project5} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>RECIPES BUDDY MERN App</h4></div>
+            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-frontend" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://recipes-buddy-frontend.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-backend" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="card portfolio-wrap">
-            <img src="https://www.w3schools.com/bootstrap4/img_avatar3.png" class="img-fluid" alt="" />
-            <div className='card-title text-center'>Project Name</div>
-           <p> Short notes</p>
-            <div class="portfolio-info">
-              
-              <div class="portfolio-links ">
-                <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
-                  <i class="fa fa-plus"></i>
-                  </a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
-                  <i class="fa fa-link"></i>
-                  </a>
-                  <a href="https://www.w3schools.com/bootstrap4/img_avatar3.png" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
-                  <i class="fa fa-plus"></i>
-                  </a>
-              </div>
-            </div>
-          </div>
-        </div> */}
+      
         </div>
 
         </div>
