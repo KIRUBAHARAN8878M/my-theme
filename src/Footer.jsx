@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../src/assets/KIRUBAHARAN M FULLSTACK RESUME.pdf'
+import resume from '../src/assets/MY RESUME.pdf'
 
 function Footer() {
   return (
