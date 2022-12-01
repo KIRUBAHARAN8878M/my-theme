@@ -1,5 +1,5 @@
 import React from "react";
-import resume from '../src/assets/MY RESUME.pdf'
+import resume from '../src/assets/RESUMEBYKIRU.pdf'
 
 function Navbar() {
   return (
