@@ -1,7 +1,7 @@
 import React from "react";
 import { useLottie } from "lottie-react";
 import  animationData from "./lottie/61232-web-design-lottie-animation.json";
-import resume from '../src/assets/KIRUBAHARAN M FULLSTACK RESUME.pdf'
+import resume from '../src/assets/MY RESUME.pdf'
 
 function Home() {
     const options = {
