@@ -1,4 +1,5 @@
 import React from "react";
+import resume from '../src/assets/KIRUBAHARAN M FULLSTACK RESUME.pdf'
 
 function Navbar() {
   return (
@@ -56,7 +57,7 @@ function Navbar() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="btn  nav-link" href="#!" role="button">
+                <a class="btn  nav-link" href={resume} download role="button">
                   <i class="fas fa-download me-2"></i>
                   Download CV
                 </a>
