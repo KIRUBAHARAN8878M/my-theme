@@ -52,41 +52,20 @@ function Project() {
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-FE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="https://just-watches.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://just-watches.netlify.app" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/E-commerce-BE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="card  portfolio-wrap">
-       
-            <img src={project3} class="img-fluid" alt="" />
-            <div className='card-title text-center pt-2'><h4>URL SHORTNER App</h4></div>
-            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
-            <div class="portfolio-info">
-              
-              <div class="portfolio-links ">
-                <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
-                  <i class="fa fa-plus"></i>
-                  </a>
-                <a href="https://url-shortner-kiru-app.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
-                  <i class="fa fa-link"></i>
-                  </a>
-                  <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
-                  <i class="fa fa-plus"></i>
-                  </a>
-              </div>
-            </div>
-          </div>
-        </div>
+     
         
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="card  portfolio-wrap">
@@ -97,13 +76,13 @@ function Project() {
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_FE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_FE"  target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="https://kiru-retail-shop-app.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://kiru-retail-shop-app.netlify.app" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_BE" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/Retail_Shop_App_BE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
@@ -119,20 +98,41 @@ function Project() {
             <div class="portfolio-info">
               
               <div class="portfolio-links ">
-                <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-frontend" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-frontend" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
                   <i class="fa fa-plus"></i>
                   </a>
-                <a href="https://recipes-buddy-frontend.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                <a href="https://recipes-buddy-frontend.netlify.app" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
                   <i class="fa fa-link"></i>
                   </a>
-                  <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-backend" data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <a href="https://github.com/KIRUBAHARAN8878M/Recipes-buddy-backend" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-plus"></i>
                   </a>
               </div>
             </div>
           </div>
         </div>
-      
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="card  portfolio-wrap">
+       
+            <img src={project3} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>URL SHORTNER App</h4></div>
+            <p className="text-center p-1"> React Js/Node Js/Express Js/MongoDB</p>
+            <div class="portfolio-info">
+              
+              <div class="portfolio-links ">
+                <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-FE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                  <i class="fa fa-plus"></i>
+                  </a>
+                <a href="https://url-shortner-kiru-app.netlify.app" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                  <i class="fa fa-link"></i>
+                  </a>
+                  <a href="https://github.com/KIRUBAHARAN8878M/Url-Shortener-BE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
+                  <i class="fa fa-plus"></i>
+                  </a>
+              </div>
+            </div>
+          </div>
+        </div>
         </div>
 
         </div>
