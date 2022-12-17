@@ -5,7 +5,7 @@ import project1 from '../src/assets/NoteMakerApp.jpg'
 import project4 from '../src/assets/retailshopinventory.jpeg'
 import project5 from '../src/assets/recipesbuddyapp.jpeg'
 import project2 from '../src/assets/watch.jpeg'
-import project3 from '../src/assets/url.jpeg'
+// import project3 from '../src/assets/url.jpeg'
 function Project() {
 
  
@@ -111,7 +111,7 @@ function Project() {
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        {/* <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="card  portfolio-wrap">
        
             <img src={project3} class="img-fluid" alt="" />
@@ -132,7 +132,7 @@ function Project() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         </div>
 
         </div>
