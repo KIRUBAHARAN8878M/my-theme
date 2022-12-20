@@ -1,7 +1,7 @@
 import React from "react";
 import { useLottie } from "lottie-react";
 import  animationData from "./lottie/61232-web-design-lottie-animation.json";
-import resume from '../src/assets/Resume.pdf'
+
 
 function Home() {
     const options = {
@@ -25,7 +25,7 @@ function Home() {
             <a target="_blank" href="https://github.com/KIRUBAHARAN8878M"><i class="fa-brands fa-github"></i></a>
             <a target="_blank" href="https://www.linkedin.com/in/kirubaharan-m-116b36234"><i class="fa-brands fa-linkedin"></i></a>
             {/* <a target="_blank" href="https://wa.me/+918489671064"><i class="fa-brands fa-whatsapp"></i></a> */}
-            <a  href={resume} download ><i class="fas fa-download"></i></a>
+            <a  href="https://drive.google.com/file/d/1BWwcuk-BfRjTy2589qNVIhngtVboQ6br/view?usp=sharing" target="_blank" download ><i class="fas fa-download"></i></a>
             
           </div>
       </div>

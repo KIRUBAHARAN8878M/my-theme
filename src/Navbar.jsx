@@ -1,5 +1,5 @@
 import React from "react";
-import resume from '../src/assets/Resume.pdf'
+
 
 function Navbar() {
   return (
@@ -53,7 +53,7 @@ function Navbar() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="btn  nav-link fs-5" href={resume} download role="button">
+                <a class="btn  nav-link fs-5" href="https://drive.google.com/file/d/1BWwcuk-BfRjTy2589qNVIhngtVboQ6br/view?usp=sharing" target="_blank"  role="button" download>
                   <i class="fas fa-download me-2"></i>
                   Download CV
                 </a>
