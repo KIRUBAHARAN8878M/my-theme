@@ -33,27 +33,27 @@ function Navbar() {
             <ul class="navbar-nav">
               
               <li class="nav-item">
-                <a class="nav-link" href="#about">
+                <a class="nav-link  fs-5" href="#about">
                   About
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#skills">
+                <a class="nav-link fs-5" href="#skills">
                   Skills
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#project">
+                <a class="nav-link fs-5" href="#project">
                   Project
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#contact">
+                <a class="nav-link fs-5" href="#contact">
                   Contact
                 </a>
               </li>
               <li class="nav-item">
-                <a class="btn  nav-link" href={resume} download role="button">
+                <a class="btn  nav-link fs-5" href={resume} download role="button">
                   <i class="fas fa-download me-2"></i>
                   Download CV
                 </a>
