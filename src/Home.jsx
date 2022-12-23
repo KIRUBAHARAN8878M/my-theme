@@ -25,7 +25,7 @@ function Home() {
             <a target="_blank" href="https://github.com/KIRUBAHARAN8878M"><i class="fa-brands fa-github"></i></a>
             <a target="_blank" href="https://www.linkedin.com/in/kirubaharan-m-116b36234"><i class="fa-brands fa-linkedin"></i></a>
             {/* <a target="_blank" href="https://wa.me/+918489671064"><i class="fa-brands fa-whatsapp"></i></a> */}
-            <a  href="https://drive.google.com/file/d/1uMe6kVcPaAi6A2-i1uvOLshbeJCx0mxC/view?usp=sharing" target="_blank" download ><i class="fas fa-download"></i></a>
+            <a  href="https://drive.google.com/file/d/1-1ZwGMSalnSG-4WBQ4o3DLnWICHzQMR1/view?usp=sharing" target="_blank" download ><i class="fas fa-download"></i></a>
             
           </div>
       </div>

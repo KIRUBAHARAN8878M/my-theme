@@ -16,7 +16,17 @@ function Project() {
     <div class="container card bg-transparent mt-1 p-5  "  style={ {border:"1px solid #82b39c",boxShadow: "rgba(56, 90, 73, 0.75) 12px 8px 12px"}}>
       <h1 class="sub-title text-center myname" >Projects</h1>
       <hr />
-      
+     
+      <div class="card border-light mb-3 bg-transparent">
+ 
+  <div class="card-body  text-success">
+    <h5 class="card-title text-center fw-bold  text-uppercase"> Common Credentials</h5><hr />
+    <p class="card-text text-center text-light"><span className="fw-bold  myname text-uppercase">User :-</span> kirubaharan8878m@gmail.com || password: User@1234</p>
+    <p class="card-text text-center text-light"><span className="fw-bold myname  text-uppercase">Admin :-</span> kirubam8878@gmail.com || password: Admin@1234</p>
+  </div>
+ 
+</div>
+
            
                 <section id="portfolio" class="portfolio">
     <div class="container">
