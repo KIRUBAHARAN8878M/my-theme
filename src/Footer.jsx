@@ -10,7 +10,7 @@ function Footer() {
             <a target="_blank" href="https://github.com/KIRUBAHARAN8878M"><i class="fa-brands fa-github"></i></a>
             <a target="_blank" href="https://www.linkedin.com/in/kirubaharan-m-116b36234"><i class="fa-brands fa-linkedin"></i></a>
             {/* <a target="_blank" href="https://wa.me/+918489671064"><i class="fa-brands fa-whatsapp"></i></a> */}
-            <a  href="https://drive.google.com/file/d/19oKpELuCfYzZqKFvmjsQKjAr_zYr2e1W/view?usp=sharing" target="_blank" download><i class="fas fa-download"></i></a>
+            <a  href="https://drive.google.com/file/d/1x1r3C7xgb3O4FJsOpLvUgqTt3tZXaXUa/view?usp=share_link" target="_blank" download><i class="fas fa-download"></i></a>
           </div>
          
           <div className="text-center myname"> 
