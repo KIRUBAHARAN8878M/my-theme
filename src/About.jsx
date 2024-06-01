@@ -38,13 +38,10 @@ function About() {
         <div class="col-lg-5 col-md-5 col-sm-8 pt-5 ">
           <div class="sec2 pt-5">
            
-              <p className="card-text fw-bold">
-                Am a MERN Stack Developer from Ulkottai,Tamil Nadu in India 🇮🇳. I
-                love to create web apps that would make life easy and enjoyable
-                for people. I have just completed MERN Stack at Guvi Geeks of
-                IIT-M, Chennai.
+              <p className="card-text fw-bold" style={{textAlign: 'justify'}}>
+              I bring over one year of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.
               </p>
-              <p className="card-text fw-bold">
+              <p className="card-text fw-bold" style={{textAlign: 'justify'}}>
                 I like to interact with people, listen to new ideas . I am
                 always open to have talk about anything and look forward to
                 connect with you 🤝. 

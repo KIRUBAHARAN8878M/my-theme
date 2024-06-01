@@ -18,7 +18,7 @@ function Home() {
       <div class="col-lg-6 col-md-6 col-sm-12" id="intro">
         <div class="header-text pt-2">
           <h2>Hello, I'm<br /><span> KIRUBAHARAN</span> M</h2>
-          <p>Full Stack Developer<span >(MERN)</span></p>
+          <p>Junior Full Stack Developer</p>
         </div>
         <div className="text-center" id="social-cont">
             <a target="_blank" href="https://mail.google.com/mail/u/0/?hl=en-GB&tf=cm&fs=1&to=kirubaharan8878m@gmail.com"><i class="fa-regular fa-envelope"></i></a>
