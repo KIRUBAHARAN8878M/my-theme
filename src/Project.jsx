@@ -5,7 +5,11 @@ import project1 from '../src/assets/NoteMakerApp.jpg'
 import project4 from '../src/assets/retailshopinventory.jpeg'
 import project5 from '../src/assets/recipesbuddyapp.jpeg'
 import project2 from '../src/assets/watch.jpeg'
- import project6 from '../src/assets/burgerapp.png'
+import project6 from '../src/assets/burgerapp.png'
+import project7 from '../src/assets/weathernew.jpeg'
+import project8 from '../src/assets/habittracker.jpeg'
+
+
 function Project() {
 
  
@@ -162,6 +166,44 @@ function Project() {
                   <a href="https://github.com/KIRUBAHARAN8878M/DeliveryApp_BE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="B-code">
                   <i class="fa fa-github text-light"> B-end</i>
                   </a>
+            </div>
+           
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="card  bg-transparent border-dark">
+       
+            <img src={project7} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>TANSTACK QUERY WEATHER App</h4></div>
+            <p className="text-center p-1"> React Js/ Typescript/ Shadcn/UI</p>
+           
+            <div className="card-footer text-center text-dark">
+            <a href="https://github.com/KIRUBAHARAN8878M/tanstack-query-weather-ts" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                  <i class="fa fa-github text-light"> F-end</i>
+                  </a>
+                <a href="https://tanstack-query-weather-ts.vercel.app/" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                  <i class="fa fa-link text-success"> Live</i>
+                  </a>
+                  
+            </div>
+           
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="card  bg-transparent border-dark">
+       
+            <img src={project8} class="img-fluid" alt="" />
+            <div className='card-title text-center pt-2'><h4>HABIT TRACKER App</h4></div>
+            <p className="text-center p-1"> React Js/ Typescript/ Redux/ MUI</p>
+           
+            <div className="card-footer text-center text-dark">
+            <a href="https://github.com/KIRUBAHARAN8878M/Tracker_ReduxFE" target='_blank' data-gallery="portfolioGallery" class="portfolio-lightbox me-4" title="F-code">
+                  <i class="fa fa-github text-light"> F-end</i>
+                  </a>
+                <a href="https://trackerdaily.netlify.app/" target='_blank' data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox me-4" title="Deploy link">
+                  <i class="fa fa-link text-success"> Live</i>
+                  </a>
+                  
             </div>
            
           </div>

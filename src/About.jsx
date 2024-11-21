@@ -39,7 +39,7 @@ function About() {
           <div class="sec2 pt-5">
            
               <p className="card-text fw-bold" style={{textAlign: 'justify'}}>
-              I bring over one year of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.
+              I bring over one year nine months of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.
               </p>
               <p className="card-text fw-bold" style={{textAlign: 'justify'}}>
                 I like to interact with people, listen to new ideas . I am
