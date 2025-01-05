@@ -28,6 +28,14 @@ function Skills() {
         </div>
         <div className="col mt-sm-2">
           <div className="card" id="skill-card">
+            <i className="fa-brands fa-bootstrap"></i>
+            <div className="card-body">
+              <p className="card-text">Bootstrap</p>
+            </div>
+          </div>
+        </div>
+        <div className="col mt-sm-2">
+          <div className="card" id="skill-card">
             <i className="fa-brands fa-js"></i>
             <div className="card-body">
               <p className="card-text">JavaScript</p>
@@ -45,13 +53,14 @@ function Skills() {
         </div>
 
         <div className="col mt-sm-2">
-          <div className="card" id="skill-card">
-            <i className="fa-brands fa-bootstrap"></i>
-            <div className="card-body">
-              <p className="card-text">Bootstrap</p>
-            </div>
-          </div>
-        </div>
+  <div className="card" id="skill-card">
+    <iconify-icon icon="simple-icons:redux" id="skill-lone"></iconify-icon>
+    <div className="card-body">
+      <p className="card-text">Redux Toolkit</p>
+    </div>
+  </div>
+</div>
+
 
         <div className="col mt-sm-2">
           <div className="card" id="skill-card">

@@ -9,10 +9,10 @@ function Experience() {
       <div className="row row-cols-md-2 row-cols-lg-3 row-cols-sm-2 m-3">
        <div className='container'>
         <h4>
-        LAHTP (Learn the art of hacking through programming) -LEGACY
+        Namaste Javascript
         </h4>
-        <p>Selfmade Ninja Academy</p>
-        <p>JAN 2024 - Till Date</p>
+        <p>NamasteDev.com</p>
+        <p>Online</p>
        </div>
        <div>
         <h4>
