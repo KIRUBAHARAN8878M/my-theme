@@ -53,7 +53,7 @@ function Navbar() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="btn  nav-link fs-5" href="https://drive.google.com/file/d/1v5v_d0fwQqt6dCKV8yIKseh05h5H_2ye/view" target="_blank"  role="button" download>
+                <a class="btn  nav-link fs-5" href="https://drive.google.com/file/d/1jLGdMKprtJA5tVJ-XYxGeHizyu_SzUfT/view" target="_blank"  role="button" download>
                   <i class="fas fa-download me-2"></i>
                   Download CV
                 </a>
